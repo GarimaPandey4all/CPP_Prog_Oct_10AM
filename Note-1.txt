@@ -1,0 +1,88 @@
+C++
+
+- It is a super class of C
+- C is a subclass of C++
+
+OOPS: Object Oriented Programming Language
+
+Features:
+
+1. Class and object
+2. Encapsulation and Abstraction(Data Hiding)
+3. Inheritance
+4. Polymorphism
+
+Advanced Features:
+
+1. Exception Handling
+2. Templates
+3. Standard Template Library (In built Data Structures)
+
+C - dev
+
+int x, y;
+
+add()
+{}
+
+sub()
+{}
+
+div()
+{}
+
+mul()
+{}
+
+sin()
+{
+double x;
+}
+
+C++ - dev
+
+class Calculator
+{
+
+int x, y; // data security / data hiding / abstraction
+
+add()
+{}
+
+sub()
+{}
+
+div()
+{}
+
+mul()
+{}
+
+};
+
+class SciCalculator {
+
+double x;
+
+sin()
+{}
+
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
